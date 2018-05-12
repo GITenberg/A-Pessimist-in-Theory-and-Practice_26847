@@ -1,0 +1,29 @@
+_repo: A-Pessimist-in-Theory-and-Practice_26847
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bird, Frederic Mayer
+    aliases:
+    - Bird, F. M. (Frederic Mayer)
+    - Timsol, Robert
+    birthdate: 1838
+    deathdate: 1908
+    gutenberg_agent_id: '32273'
+    url: http://www.gutenberg.org/2009/agents/32273
+description: ''
+gutenberg_issued: '2008-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26847'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: A Pessimist in Theory and Practice
+url: http://www.gutenberg.org/ebooks/26847
