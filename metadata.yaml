@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32273'
     url: http://www.gutenberg.org/2009/agents/32273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26847#A-Pessimist-in-Theory-and-Practice
 gutenberg_issued: '2008-10-09'
 gutenberg_type: Text
 identifiers:
